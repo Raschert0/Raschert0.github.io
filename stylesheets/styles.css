@@ -189,6 +189,9 @@ h1{
 .by a{
 	color: #CCC;
 }
+.key{
+	color:rgba(255,255,255, .6);
+}
 #footer {
     position: fixed; 
     left: 0; bottom: 0; 
